@@ -8,5 +8,6 @@
 #-------------------------------------------------------------------------------
 
 esb = ["EMS", "FIRE", "LAW"]
-gdb = r"E:\Kristen\Data\NG911\RSDigital_KW_NG911_PSAP.gdb"
+gdb = r"\\gisdata\arcgis\gisdata\DASC\NG911\KDOTReview\SedgCoNG911.gdb"
+DOTRoads = r"\\gisdata\arcgis\gisdata\DASC\NG911\KDOTReview\KDOT_Roads.gdb"
 folder = r"E:\Kristen\Data\NG911\Domains"
