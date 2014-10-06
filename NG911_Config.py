@@ -8,6 +8,6 @@
 #-------------------------------------------------------------------------------
 
 esb = ["EMS", "FIRE", "LAW"]
-gdb = r"\\gisdata\arcgis\gisdata\DASC\NG911\KDOTReview\SedgCoNG911.gdb"
+gdb = r"\\gisdata\arcgis\GISdata\DASC\NG911\KDOTReview\Region1_PR_Final.gdb"
 DOTRoads = r"\\gisdata\arcgis\gisdata\DASC\NG911\KDOTReview\KDOT_Roads.gdb"
 folder = r"E:\Kristen\Data\NG911\Domains"
